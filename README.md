@@ -1,12 +1,37 @@
-# Challenge9th-ProfessionalREADMEGenerator
 
-## Link to  video of functionality 
+          # READMEfile Project
+          ![MIT License](https://img.shields.io/badge/license-MIT-green)
+          
+          ## Description
+          A CLI to dinamically generate a readmeFile
+          
+          ## Table of Contents
+          - [Installation](#installation)
+          - [Usage](#usage)
+          - [License](#license)
+          - [Contributing](#contributing)
+          - [Tests](#tests)
+          - [Questions](#questions)
+          
+          ## Installation
+          Inquirer and something else 
+          
+          ## Usage
+          After installation on the terminal and on the right directory write command node index.js
+          
+          ## Usage Notes
+Its still on revision
 
-## Link to GitHub Pages 
-## Description 
-## User Story 
-## Acceptance Criteria 
-## Instalation 
-In order to have functionality you'll have to install inquirer (npm i inquirer@8.2.4.)
-
-## Usage
+          
+          ## License
+          This project is covered under the MIT license.
+          
+          ## Contributing
+          Used AI to help with coherence and legibility 
+          
+          ## Tests
+          npm test
+          
+          ## Questions
+          If you have any questions about the repo, open an issue or contact CarlosCastilloFlores directly at carlosflrs03@gmail.com.
+          
